@@ -5,7 +5,7 @@
 Fork到自己的仓库，然后在Zeabur中使用Github仓库部署，找到Fork的[Auto-AList-docker-for-Zeabur]，部署即可，建议白嫖一个数据库，这样每次更新部署就不用来回备份与恢复了
 
 ## 数据库
-一些免费的数据库:
+一些数据库:
 
 - https://db4free.net/
 - https://remotemysql.com/
